@@ -1,5 +1,5 @@
 //-----------------------------------------------------
-//ESTE ES EL ÚNICO FICHERO QUE HAY QUE MODIFICAR
+// DEFINITION OF THE STATES BASED ON THE FSM.h
 //-----------------------------------------------------
 
 #ifndef myStates_H
